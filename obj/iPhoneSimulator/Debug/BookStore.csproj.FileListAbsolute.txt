@@ -1,0 +1,9 @@
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/bin/iPhoneSimulator/Debug/BookStore.exe
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/bin/iPhoneSimulator/Debug/BookStore.pdb
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/BookStore.csproj.CoreCompileInputs.cache
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/BookStore.exe
+/Users/gregorye1/Desktop/repos/BookStore/BookStore/obj/iPhoneSimulator/Debug/BookStore.pdb
